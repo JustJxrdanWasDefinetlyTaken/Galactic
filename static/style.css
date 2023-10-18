@@ -30,3 +30,19 @@ form input:focus {
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }
+ .btn {
+	font-family: 'Comfortaa', cursive;
+	margin: 5px;
+	border-radius: 10px;
+	width: 10px + fit-content;
+	height: 30px;
+	border-style: solid;
+	border-width: 2px;
+	background: none;
+	color: white;
+	transition: all  0.4s ease;
+}
+.btn:hover {
+	color: black;
+	cursor: pointer;
+	background: white;
