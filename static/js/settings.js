@@ -16,8 +16,8 @@ if (tabData.icon) {
 }
 
 var settingsDefaultTab = {
-  title: "SurfTheWeb - Settings",
-  icon: "./img/stw.png",
+  title: "Settings",
+  icon: "./logo.png",
 };
 
 function setTitle(title = "") {
