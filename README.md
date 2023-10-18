@@ -41,3 +41,4 @@
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/GalacticNetwork/SurfTheWeb-V3"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://replit.com/github/GalacticNetwork/SurfTheWeb-V3"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
 <a target="_blank" href="https://glitch.com/edit/#!/import/git?url=https://github.com/GalacticNetwork/Galactic"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
+[![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://github.com/GalacticNetwork/Galactic/blob/main/railway.md)
