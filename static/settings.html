@@ -1,1 +1,18 @@
-not set yet
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Settings</title>
+</head>
+<body>
+  <div align="center">
+    <h1>Settings</h1>
+  <div class="buttons">
+    <input id="title" class="input" placeholder="Title" onkeyup="setTitle(this.value)">
+    <input id="icon" class="input" placeholder="Favicon" onkeyup="setFavicon(this.value.trim())">
+    <button class="btn" onclick="resetTab()">Reset</button>
+  </div>
+</body>
+</html>
